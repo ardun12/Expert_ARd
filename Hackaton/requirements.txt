@@ -1,0 +1,7 @@
+pdfplumber
+nltk
+PyPDF2
+PyPDF4
+PyMuPDF
+frontend
+tools
